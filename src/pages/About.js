@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from '../component/Navbar'
+import displayImg from "../component/images/faduma.png"
 
 const About = () => {
   return (
@@ -10,7 +11,12 @@ const About = () => {
       <div className="row align-items-center">
         <div className="col-lg-3 my-auto mb-5">
           <div className="device-container">
-            <img src="public/images/faduma.png" class="img-fluid rounded-circle" alt="pictur"/>
+          <img
+              src={displayImg}
+              className="rounded-circle"
+              width="250rem"
+              alt="displayPicture"
+            />
           </div>
         </div>
         <div className="col-lg-6 my-auto text-center mt-5 mb-5">

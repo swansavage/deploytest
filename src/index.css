@@ -65,6 +65,7 @@ code {
   color: #fd52ad;
 }
 header.masthead {
+  height: 100vh;
   position: relative;
   width: 100%;
   padding-top: 150px;
