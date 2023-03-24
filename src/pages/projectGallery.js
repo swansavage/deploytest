@@ -1,6 +1,6 @@
 
-import Projects from "../Projects";
-import projectsJSON from "../../project.json";
+import Projects from "./Projects";
+import projectsJSON from "../project.json";
 
 function ProjectGallery(){
 
