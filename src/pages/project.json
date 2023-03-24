@@ -1,0 +1,45 @@
+[
+    {
+      "title": "WeatherApi",
+      "github": "https://github.com/fadumasaidcodes/Five-days-weather",
+      "deployed": "https://fadumasaidcodes.github.io/Five-days-weather/",
+      "description": "This is a weather app that provides users with the current and future weather conditions of a searched city. The current weather conditions include details such as the city name, date, weather icon, temperature, humidity, and wind speed. Additionally, the future weather conditions are displayed as a 5-day forecast showing the date, weather icon, temperature, and humidity and previous search histtroy.",
+      "large": "true",
+      "image": "weather.png"
+    },
+    {
+        "title": "Quiz-App",
+        "github": "https://github.com/fadumasaidcodes/Coding-Quiz-",
+        "deployed": "https://fadumasaidcodes.github.io/Coding-Quiz-/",
+        "description": "This is a quiz app that allows users to take a timed quiz on JavaScript fundamentals. The app also has a feature to store high scores, which enables users to gauge their progress and compare their scores with others who have taken the quiz.",
+        "image": "quiz.jpeg"
+    },
+    {
+        "title": "Password-Generator",
+        "github": "https://github.com/fadumasaidcodes/Password-Generator",
+        "deployed": "https://fadumasaidcodes.github.io/Password-Generator/",
+        "description": "This is a JavaScript-based app that generates a random password based on user input.",
+        "image": "password.png"
+    },
+    {
+        "title": "Todo-list",
+        "github": "https://github.com/fadumasaidcodes/todo-list",
+        "deployed": "https://fadumasaidcodes.github.io/todo-list/",
+        "description": "A todo app is a productivity tool designed to help users keep track of tasks or to-do items they need to complete.",
+        "image": "todo.png"
+    },
+    {
+        "title": "News search API",
+        "github": "https://github.com/fadumasaidcodes/New-York-Times-Search",
+        "deployed": "https://fadumasaidcodes.github.io/New-York-Times-Search/",
+        "description": "A news app API allows users to search for news articles using keywords, dates, sources, or other criteria, and the API returns a list of relevant articles that match the search query. The app can display the articles by category, such as sports, politics, entertainment, or technology. This makes it easier for users to keep up-to-date with the latest news and find information on topics that interest them. ",
+        "image": "new.png"
+    },
+    {
+        "title": "work-planner",
+        "github": "https://github.com/fadumasaidcodes/Faduma-s-Third-Party-APIs-Work-Day-Scheduler",
+        "deployed": "https://fadumasaidcodes.github.io/Faduma-s-Third-Party-APIs-Work-Day-Scheduler",
+        "description": "This app is a work planner that helps users plan their day from 9 am to 5 pm",
+        "image": "work-planner.png"
+    }
+  ]
