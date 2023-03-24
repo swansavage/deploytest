@@ -20,7 +20,7 @@ function Navbar() {
             <NavLink className="nav-link js-scroll-trigger" to="#About">About</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link js-scroll-trigger" to="#portfolio">Portfolio</NavLink>
+            <NavLink className="nav-link js-scroll-trigger" to="#ProjectGallery">ProjectGallery</NavLink>
           </li>
           <li className="nav-item">
             <NavLink className="nav-link js-scroll-trigger" to="#skills">Skills</NavLink>
