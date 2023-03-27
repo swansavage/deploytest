@@ -17,16 +17,16 @@ function Navbar() {
             <NavLink exact className="nav-link js-scroll-trigger " to="/">Home</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link js-scroll-trigger" to="#About">About</NavLink>
+            <NavLink className="nav-link js-scroll-trigger" to="About">About</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link js-scroll-trigger" to="#ProjectGallery">ProjectGallery</NavLink>
+            <NavLink className="nav-link js-scroll-trigger" to="ProjectGallery">ProjectGallery</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link js-scroll-trigger" to="#skills">Skills</NavLink>
+            <NavLink className="nav-link js-scroll-trigger" to="skills">Skills</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link js-scroll-trigger" to="#Contact">Contact</NavLink>
+            <NavLink className="nav-link js-scroll-trigger" to="Contact">Contact</NavLink>
           </li>
         </ul>
       </div>

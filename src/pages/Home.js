@@ -1,10 +1,8 @@
 import React from "react";
-import Home from './Home'
 
 function HomePage() {
   return (
     <div>
-        <Home/>
       <section className="intro-section bg-dark py-4" data-target="#navbarResponsive">
         <div className="container text-center">
           <h2 className="intro-heading mb-4 pt-5 pt-md-0">Hi, I am Faduma</h2>

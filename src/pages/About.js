@@ -1,11 +1,10 @@
 import React from 'react'
-import Navbar from '../component/navbar'
 import displayImg from "../component/images/faduma.png"
 
 const About = () => {
   return (
     <div>
-     < Navbar/>
+  
      <header className="masthead">
     <div className="container align-me" id="About">
       <div className="row align-items-center">
