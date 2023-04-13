@@ -11,6 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 /* Navigation bar styles ============= */
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
@@ -57,13 +58,14 @@ code {
 
 #mainNav .navbar-nav>li>a,
 #mainNav .navbar-nav>li>a:focus {
-  color:#FFC107;
+  color: #FFC107;
 }
 
 #mainNav .navbar-nav>li>a:hover,
 #mainNav .navbar-nav>li>a:focus:hover {
   color: #fd52ad;
 }
+
 .intro-section {
   height: 100vh;
   display: flex;
@@ -76,8 +78,9 @@ code {
   background-position: 50% 50%;
   color: white !important;
 }
+
 .about-img {
- /*  width: 100%;
+  /*  width: 100%;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -126,14 +129,24 @@ header.masthead .device-container img {
 
 
 .btn-outline-light {
-  color: #f8f9fa;
+  color: #faf8f9;
   border-color: #73716e;
-margin-bottom: 20px;
+  margin-bottom: 20px;
   margin-left: 20px;
+
+
+}
+
+.btn-primary-intro {
+  color: #faf8f9;
+  border-color: #73716e;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  background-color: dodgerblue;
+
 }
 
 .about-heading {
-  margin-top: -150px;
+  margin-top: -132px;
   margin-bottom: 200px;
 }
-
