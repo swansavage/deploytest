@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.a109c5a5.css",
+    "main.js": "/React-Portfolio/static/js/main.1bc1c5b8.js",
+    "static/media/faduma.png": "/React-Portfolio/static/media/faduma.5b645d08a8a40e3e14c7.png",
+    "static/media/laptop.jpg": "/React-Portfolio/static/media/laptop.fa0a81abeb7a44160536.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.a109c5a5.css.map": "/React-Portfolio/static/css/main.a109c5a5.css.map",
+    "main.1bc1c5b8.js.map": "/React-Portfolio/static/js/main.1bc1c5b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a109c5a5.css",
+    "static/js/main.1bc1c5b8.js"
+  ]
+}
