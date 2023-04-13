@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.a109c5a5.css",
-    "main.js": "/React-Portfolio/static/js/main.1bc1c5b8.js",
-    "static/media/faduma.png": "/React-Portfolio/static/media/faduma.5b645d08a8a40e3e14c7.png",
-    "static/media/laptop.jpg": "/React-Portfolio/static/media/laptop.fa0a81abeb7a44160536.jpg",
-    "index.html": "/React-Portfolio/index.html",
-    "main.a109c5a5.css.map": "/React-Portfolio/static/css/main.a109c5a5.css.map",
-    "main.1bc1c5b8.js.map": "/React-Portfolio/static/js/main.1bc1c5b8.js.map"
+    "main.css": "/react-portfolio/static/css/main.1e089ecf.css",
+    "main.js": "/react-portfolio/static/js/main.829fe6bf.js",
+    "static/media/faduma.png": "/react-portfolio/static/media/faduma.5b645d08a8a40e3e14c7.png",
+    "static/media/laptop.jpg": "/react-portfolio/static/media/laptop.fa0a81abeb7a44160536.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.1e089ecf.css.map": "/react-portfolio/static/css/main.1e089ecf.css.map",
+    "main.829fe6bf.js.map": "/react-portfolio/static/js/main.829fe6bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.a109c5a5.css",
-    "static/js/main.1bc1c5b8.js"
+    "static/css/main.1e089ecf.css",
+    "static/js/main.829fe6bf.js"
   ]
 }
