@@ -76,12 +76,20 @@ code {
   background-position: 50% 50%;
   color: white !important;
 }
+.about-img {
+ /*  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center ;
+*/
+}
 
 header.masthead {
   height: 100vh;
   position: relative;
   width: 100%;
-  padding-top: 150px;
+  padding-top: 300px;
   padding-bottom: 100px;
   color: #ff8bff;
   background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(111, 106, 106, 0.8)), url(../src/component/images/laptop.jpg);
@@ -123,3 +131,9 @@ header.masthead .device-container img {
 margin-bottom: 20px;
   margin-left: 20px;
 }
+
+.about-heading {
+  margin-top: -150px;
+  margin-bottom: 200px;
+}
+
